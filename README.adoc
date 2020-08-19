@@ -1,0 +1,7 @@
+:noc:
+:icons: fonts
+
+= cheat-sheet AsciiDoctor
+
+AsciiDoc syntax quick reference: https://asciidoctor.org/docs/asciidoc-syntax-quick-reference/
+

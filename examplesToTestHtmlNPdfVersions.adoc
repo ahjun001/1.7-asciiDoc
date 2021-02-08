@@ -337,6 +337,10 @@ line of XML or SGML (g.e.: HTML) code <!--4-->
 == Keyboard, button, and menu macros
 
 |===
+|simple |simple
+|===
+
+|===
 |Shortcut |Purpose
 
 |kbd:[F11]    |Toggle fullscreen

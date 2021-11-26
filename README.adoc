@@ -1,8 +1,12 @@
 = cheat-sheet AsciiDoctor
-:noc:
+// pdf will be different from js version
 :doctype: book
 :icons: font
 
+[%hardbreaks]
+note-caption: {note-caption}
+noc: {noc}
+doctype: {doctype}
 
 == References
 

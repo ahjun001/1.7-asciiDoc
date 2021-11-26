@@ -1,11 +1,8 @@
 = Examples to test html & pdf versions of asciidoc
 Author <author@email.com>
 version, {version-label}: remark
-//:doctype: article, book, manpage, inline
-:doctype: article
-// must b0e in the header
-// :toc2:
-:toc: right
+//:doctype: article(Default), book, manpage, inline
+:toc: left
 :toc-title: Following https://docs.asciidoctor.org/asciidoc/latest/syntax-quick-reference
 // to get buttons & menus
 //
@@ -27,6 +24,7 @@ header: {header}
 doctype: {doctype}
 backend: {backend}
 backend-html5: {backend-html5}
+doctype: {doctype}
 docdate: {docdate}
 docdatetime: {docdatetime}
 doctime: {doctime}
